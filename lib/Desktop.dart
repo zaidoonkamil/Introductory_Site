@@ -144,7 +144,7 @@ class _DesktopState extends State<Desktop>
                             ],
                           ),
                           SizedBox(height: MediaQuery.of(context).size.height*0.1,),
-                          Booton(sizeText: 20,width: 150,height:50 ,link: 'https://drive.google.com/file/d/1W7Q67OJHEQQEp-7ablR_v3f8S1b98hO-/view', text: 'Show CV', color: PrimaryColor,),
+                          Booton(sizeText: 20,width: 150,height:50 ,link: 'https://drive.google.com/file/d/1iDnjYBGetQa-YA9tUM74ECp30kD0Hgyp/view?usp=sharing', text: 'Show CV', color: PrimaryColor,),
                           SizedBox(height: MediaQuery.of(context).size.height*0.07),
                           Row(
                             mainAxisAlignment: MainAxisAlignment.center,
